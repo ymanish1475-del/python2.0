@@ -10,3 +10,6 @@ print(lst1)
 
 print( 5 in lst) # check in
 print( 0 not in lst)
+
+# nbjnjhnuyttrrsxd
+cfccp
