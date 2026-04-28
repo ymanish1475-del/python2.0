@@ -3,3 +3,4 @@ name="manish yadav";
 print(name.upper());
 name1=" brother";
 print(name+name1)
+print(name[::-1]);  #reversestring --> vaday hsinam
